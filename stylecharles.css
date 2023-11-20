@@ -1,7 +1,7 @@
 body {
     background: CCCCCC;
 }
-h1 {
+.principal {
     text-align: center;
     border: 10px solid black;
     padding:20px ;
@@ -16,5 +16,23 @@ em strong {
     style="font-size: 20px;"
 }
 #banner{
+    style="font-size:  20px;
+  }
+  #banner{
     width: 100%;
+  }
+    .beneficios{
+            background: #FFFFFF;
+    }
+.imagembeneficios{
+    width:50%;
+}
+h2{
+    text-align:center;
+}
+.itens{
+      font-style: italic;
+}
+li{
+    border:3px solid black
 }
